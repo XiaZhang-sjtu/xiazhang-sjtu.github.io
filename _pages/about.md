@@ -33,7 +33,7 @@ My research interests include topics in fetal MRI assessment. Most recently, I a
 
 Publication
 ======
- - ** Xia Zhang **, Su-Zhen Dong*. Quantitative MRI evaluation of cardiovascular abnormalities and brain in fetuses with congenital heart disease. International Journal of Medical Radiology, 2022, 45(1):71-71. 
- - ** Xia Zhang **, Ming Zhu, Su-Zhen Dong*. Prenatal assessment of the cardiovascular structure and brain development of fetuses with Tetralogy of Fallot on fetal MRI. Chinese Journal of Radiology, 2022, 56(5): 488-493.
- - ** Xia Zhang **, Ming Zhu, Su-Zhen Dong*. Utility of fetal cardiac magnetic resonance imaging in assessing the fetuses with complete vascular ring. (oral presentation, 27th Congress of Chinese Pediatric Society, 24/11/2022-27/11/2022, Changsha, China)
+ - **Xia Zhang**, Su-Zhen Dong$^*$. Quantitative MRI evaluation of cardiovascular abnormalities and brain in fetuses with congenital heart disease. International Journal of Medical Radiology, 2022, 45(1):71-71. 
+ - **Xia Zhang**, Ming Zhu, Su-Zhen Dong$^*$. Prenatal assessment of the cardiovascular structure and brain development of fetuses with Tetralogy of Fallot on fetal MRI. Chinese Journal of Radiology, 2022, 56(5): 488-493.
+ - **Xia Zhang**, Ming Zhu, Su-Zhen Dong$^*$. Utility of fetal cardiac magnetic resonance imaging in assessing the fetuses with complete vascular ring. (oral presentation, 27th Congress of Chinese Pediatric Society, 24/11/2022-27/11/2022, Changsha, China)
 
