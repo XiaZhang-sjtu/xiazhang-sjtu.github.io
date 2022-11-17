@@ -11,7 +11,7 @@ redirect_from:
 
 Biography
 ======
-I am a postgraduate from Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, supervised by Prof. Su-Zhen Dong. My research interest is Fetal MRI. Especially the quantitative assessment of cardiovascular anomalies and brain development in fetuses with congenital heart disease by prenatal MRI.
+I am a postgraduate from Shanghai Children's Medical Center, Shanghai Jiao Tong University School of Medicine, supervised by Prof. Su-Zhen Dong. My research mainly focuses on fetal MRI, with special interests in the quantitative assessment of cardiovascular anomalies and brain development in fetuses with congenital heart disease by prenatal MRI. In the long run, I am interested in studying fetal cardiovascular abnormalities in utero and neurodevelopment from the fetus to childhood in individuals with congenital heart disease.
 
 Education
 ======
