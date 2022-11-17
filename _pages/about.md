@@ -76,7 +76,7 @@ Personal Life
 ======
 In my free time, I enjoy hiking, cycling and China classic dance. 
 
-The furthest I rode was 100 kilometers in one night, and I ended up enjoying a beautiful sunrise. What's more, I have a strong interest in voluntary work. For example, I taught 100 primary school students the Heimlich Maneuver and cardiopulmonary resuscitation. In addition, I once served as a volunteer for the second China International Import Expo and worked 124 hours in this event.
+The furthest I rode was 100 kilometers in one night, and I ended up enjoying a beautiful sunrise. What's more, I have a strong interest in voluntary work. For example, I taught 100 primary school students the Heimlich Maneuver and cardiopulmonary resuscitation. In addition, I served as a volunteer for the second China International Import Expo and worked 124 hours in this event.
 
 ![life_1](/images/life_1.jpg)
 
