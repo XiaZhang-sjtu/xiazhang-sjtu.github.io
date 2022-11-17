@@ -23,13 +23,14 @@ SickKids Virtual Medical Summer School Program
 Bachelor of Clinical Medicine
 
 
-Research Interests
+A few selected studies
 ======
 My research interests include topics in fetal MRI assessment. Most recently, I am interested in:
 
 - Three-dimensional analysis of the fetal cardiovascular and brain anatomy and four-dimensional flow visualization using prenatal MRI with motion-corrected
 
-demonstration here
+![images/figure_1.png](figure 1)
+<center>Figure 1</center>
 
 
 - Images post-processing and statistical tests with structure MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB
