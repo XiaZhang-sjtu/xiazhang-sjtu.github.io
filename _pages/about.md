@@ -29,20 +29,20 @@ My research interests include topics in fetal MRI assessment. Most recently, I a
 
 - Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
 
-![/images/figure_1.png](figure 1)
+![figure 1](/images/figure_1.png)
 Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks
 
 - Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 
-![/images/figure_2.png](figure 2)
+![figure 2](/images/figure_2.png)
 From motion-corrupted to motion-corrected
 
-![/images/figure_3.png](figure 3)
+![figure_3](/images/figure_3.png)
 From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume
 
 In addition to fetuses, I have interested in MRI assessments of brain development in children. Currently, I am equipped with a series of methods of Voxel-Based Morphometry (VBM) and Surface-based Morphometry (SBM): I am able to perform images post-processing and statistical tests with structural MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB. And research indicators consist of grey matter volume, white matter volume, cortical thickness, and complexity (including Fractal dimension, Local Gyrification index, and Sulcus depth).
 
-![/images/figure_4.png](figure 4)
+![figure 4](/images/figure_4.png)
 Cortical thickness, Fractal dimension, Local Gyrification index, and Sulcus depth
 
 Research Experience
