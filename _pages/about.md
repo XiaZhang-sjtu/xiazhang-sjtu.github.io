@@ -15,19 +15,14 @@ I am a postgraduate from Shanghai Children's Medical Center, Shanghai Jiao Tong 
 
 Education
 ======
-- 2020.9-2023.6: Shanghai Jiao Tong University School of Medicine 
-Master of Imaging and Nuclear Medicine
-- 2022.7-2022.8: Hospital for Sick Children, University of Toronto 
-SickKids Virtual Medical Summer School Program   
-- 2014.9-2019.6: Xinxiang Medical University 
-Bachelor of Clinical Medicine
+- 2020.9-2023.6: Shanghai Jiao Tong University School of Medicine. Master of Imaging and Nuclear Medicine
+- 2022.7-2022.8: Hospital for Sick Children, University of Toronto. SickKids Virtual Medical Summer School Program   
+- 2014.9-2019.6: Xinxiang Medical University. Bachelor of Clinical Medicine
 
-
-A few selected studies
+Selected Studies
 ======
 
-My research interests include topics in fetal MRI assessment. Most recently, I am interested in:
-
+My research interests include topics in fetal MRI assessment. Most recently, I am interested in:\
 Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
 ------
 
