@@ -37,8 +37,7 @@ Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-
 Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 
 ![figure 2](/images/figure_2.png)
-<center><font size=2>From motion-corrupted to motion-corrected</font></center>
-
+<strong><center><font size=3>From motion-corrupted to motion-corrected</font></center></strong>
 ![figure_3](/images/figure_3.png)
 From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume
 
