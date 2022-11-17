@@ -10,7 +10,7 @@ locale                   : "China"
 title                    : "Xia Zhang"
 title_separator          : "-"
 name                     : &name "Xia Zhang"
-description              : &description "Undergraduate Student"
+description              : &description "Postgraduate"
 url                      : https://xiazhang-mid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiazhang-mid/xiazhang-mid.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xia Zhang"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student at Shanghai JiaoTong University"
+  bio              : "Postgraduate at Shanghai JiaoTong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
