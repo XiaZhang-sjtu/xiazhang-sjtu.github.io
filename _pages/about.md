@@ -27,19 +27,17 @@ A few selected studies
 ======
 
 My research interests include topics in fetal MRI assessment. Most recently, I am interested in:
-------
 
 Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
-
-![figure 1](/images/figure_1.png)
-
-Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks
 ------
 
-Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
+![figure 1](/images/figure_1.png) <strong><center><font size=3>Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks</font></center></strong>
 
-![figure 2](/images/figure_2.png)
-<strong><center><font size=3>From motion-corrupted to motion-corrected</font></center></strong>
+Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
+------
+
+![figure 2](/images/figure_2.png) <strong><center><font size=3>From motion-corrupted to motion-corrected</font></center></strong>
+
 ![figure_3](/images/figure_3.png)
 From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume
 
