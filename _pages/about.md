@@ -31,20 +31,18 @@ My research interests include topics in fetal MRI assessment. Most recently, I a
 Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
 ------
 
-![figure 1](/images/figure_1.png) <strong><center><font size=3>Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks</font></center></strong>
+![figure 1](/images/figure_1.png)<center><font size=3>Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks</font></center>
 
 Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 ------
 
-![figure 2](/images/figure_2.png) <strong><center><font size=3>From motion-corrupted to motion-corrected</font></center></strong>
+![figure 2](/images/figure_2.png)<center><font size=3>From motion-corrupted to motion-corrected</font></center>
 
-![figure_3](/images/figure_3.png)
-From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume
+![figure_3](/images/figure_3.png)<center><font size=3>From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume</font></center>
 
 In addition to fetuses, I have interested in MRI assessments of brain development in children. Currently, I am equipped with a series of methods of Voxel-Based Morphometry (VBM) and Surface-based Morphometry (SBM): I am able to perform images post-processing and statistical tests with structural MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB. And research indicators consist of grey matter volume, white matter volume, cortical thickness, and complexity (including Fractal dimension, Local Gyrification index, and Sulcus depth).
 
-![figure 4](/images/figure_4.png)
-Cortical thickness, Fractal dimension, Local Gyrification index, and Sulcus depth
+![figure 4](/images/figure_4.png)<center><font size=3>Cortical thickness, Fractal dimension, Local Gyrification index, and Sulcus depth</font></center>
 
 Research Experience
 ======
@@ -81,4 +79,8 @@ Personal Life
 In my free time, I enjoy hiking, cycling and China classic dance. 
 
 The furthest I rode was 100 kilometers in one night, and I ended up enjoying a beautiful sunrise. What's more, I have a strong interest in voluntary work. For example, I taught 100 primary school students the Heimlich Maneuver and cardiopulmonary resuscitation. In addition, I once served as a volunteer for the second China International Import Expo and worked 124 hours in this event.
+
+![life_1](/images/life_1.jpg)
+
+![life_2](/images/life_2.jpg)
 
