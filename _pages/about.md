@@ -40,7 +40,9 @@ demonstration here
 
 Research Experience
 ======
- - Evaluating hemodynamics and cardiac function in fetuses with congenital heart disease by multimodal magnetic resonance imaging (National Natural Science Foundation of China, 81971582)
+
+Evaluating hemodynamics and cardiac function in fetuses with congenital heart disease by multimodal magnetic resonance imaging (National Natural Science Foundation of China, 81971582)
+------
 
 My work: 
 
