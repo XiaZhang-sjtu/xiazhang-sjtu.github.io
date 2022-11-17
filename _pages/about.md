@@ -27,18 +27,23 @@ A few selected studies
 ======
 My research interests include topics in fetal MRI assessment. Most recently, I am interested in:
 
-- Three-dimensional analysis of the fetal cardiovascular and brain anatomy and four-dimensional flow visualization using prenatal MRI with motion-corrected
+- Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
 
-<div align=center> ![figure_1.png](figure 1) </div>
-<div align=center> ![figure_1.png](figure 1) 
+![figure_1.png](figure 1)
+Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks
 
-<center>Figure 1</center>
+- Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 
+![figure_2.png](figure 2)
+From motion-corrupted to motion-corrected
 
-- Images post-processing and statistical tests with structure MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB
+![figure_3.png](figure 3)
+From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume
 
-demonstration here
+In addition to fetuses, I have interested in MRI assessments of brain development in children. Currently, I am equipped with a series of methods of Voxel-Based Morphometry (VBM) and Surface-based Morphometry (SBM): I am able to perform images post-processing and statistical tests with structural MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB. And research indicators consist of grey matter volume, white matter volume, cortical thickness, and complexity (including Fractal dimension, Local Gyrification index, and Sulcus depth).
 
+![figure_4.png](figure 4)
+Cortical thickness, Fractal dimension, Local Gyrification index, and Sulcus depth
 
 Research Experience
 ======
@@ -54,7 +59,8 @@ This study reached the following conclusions: There were varying degrees of alte
 
 Besides, I wrote an article that reviewed the relationship between fetal congenital heart disease and its brain development, the progress of prenatal MRI quantitative evaluation of the cardiovascular and brain structures, blood flow, oxygen saturation, brain maturity, and metabolism in the fetuses with congenital heart disease.
 
- - Calculation of fetal brain structure and function network using multimodal quantitative and functional magnetic resonance imaging (Natural Science Foundation of Shanghai, 19ZR1476700)
+Calculation of fetal brain structure and function network using multimodal quantitative and functional magnetic resonance imaging (Natural Science Foundation of Shanghai, 19ZR1476700)
+------
 
 My work:
 
