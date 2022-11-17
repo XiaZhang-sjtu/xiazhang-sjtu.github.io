@@ -33,7 +33,8 @@ My research interests include topics in fetal MRI assessment. Most recently, I a
 <center>
 
 ![figure_1.png](figure 1)
-
+<div align=center> ![figure_1.png](figure 1) </div>
+<div align=center> ![figure_1.png](figure 1) 
 Figure 1
 </center>
 
