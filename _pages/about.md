@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "title to be changed"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -29,20 +29,20 @@ My research interests include topics in fetal MRI assessment. Most recently, I a
 
 - Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
 
-![figure_1.png](figure 1)
+![/images/figure_1.png](figure 1)
 Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks
 
 - Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 
-![figure_2.png](figure 2)
+![/images/figure_2.png](figure 2)
 From motion-corrupted to motion-corrected
 
-![figure_3.png](figure 3)
+![/images/figure_3.png](figure 3)
 From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume
 
 In addition to fetuses, I have interested in MRI assessments of brain development in children. Currently, I am equipped with a series of methods of Voxel-Based Morphometry (VBM) and Surface-based Morphometry (SBM): I am able to perform images post-processing and statistical tests with structural MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB. And research indicators consist of grey matter volume, white matter volume, cortical thickness, and complexity (including Fractal dimension, Local Gyrification index, and Sulcus depth).
 
-![figure_4.png](figure 4)
+![/images/figure_4.png](figure 4)
 Cortical thickness, Fractal dimension, Local Gyrification index, and Sulcus depth
 
 Research Experience
@@ -75,7 +75,7 @@ Publication
  - **Xia Zhang**, Ming Zhu, Su-Zhen Dong$^*$. Prenatal assessment of the cardiovascular structure and brain development of fetuses with Tetralogy of Fallot on fetal MRI. Chinese Journal of Radiology, 2022, 56(5): 488-493.
  - **Xia Zhang**, Ming Zhu, Su-Zhen Dong$^*$. Utility of fetal cardiac magnetic resonance imaging in assessing the fetuses with complete vascular ring. (oral presentation, 27th Congress of Chinese Pediatric Society, 24/11/2022-27/11/2022, Changsha, China)
 
-Personal Interests
+Personal Life
 ======
 In my free time, I enjoy hiking, cycling and China classic dance. 
 
