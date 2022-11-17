@@ -29,6 +29,8 @@ Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow
 
 ![figure 1](/images/figure_1.png)<center><font size=3>Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks</font></center>
 
+[4D flow cine](/images/4.9.avi)
+
 Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 ------
 
