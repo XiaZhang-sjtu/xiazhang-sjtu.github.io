@@ -22,7 +22,8 @@ Education
 Selected Studies
 ======
 
-My research interests include topics in fetal MRI assessment. Most recently, I am interested in:\
+My research interests include topics in fetal MRI assessment. Most recently, I am interested in:
+
 Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow visualization using prenatal MRI with motion-corrected slice-volume registration
 ------
 
