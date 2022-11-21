@@ -29,7 +29,7 @@ Three-dimensional analysis of the fetal cardiovascular and four-dimensional flow
 
 ![figure 1](/images/figure_1.png)<center><font size=3>Fetal whole-heart 4D magnitude and flow cine reconstruction using multiple real-time non-coplanar balanced SSFP stacks</font></center>
 
-[4D flow cine](/images/4.9.avi)
+[4D flow cine](/images/4D flow cine.avi)
 
 Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with motion-corrected slice-volume registration
 ------
@@ -38,7 +38,7 @@ Three-dimensional analysis of the fetal brain anatomy using prenatal MRI with mo
 
 ![figure_3](/images/figure_3.png)<center><font size=3>From manual segmentation of two-dimensional multislice data to three-dimensional reconstructed volume</font></center>
 
-In addition to fetuses, I have interested in MRI assessments of brain development in children. Currently, I am equipped with a series of methods of Voxel-Based Morphometry (VBM) and Surface-based Morphometry (SBM): I am able to perform images post-processing and statistical tests with structural MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB. And research indicators consist of grey matter volume, white matter volume, cortical thickness, and complexity (including Fractal dimension, Local Gyrification index, and Sulcus depth).
+In addition to fetuses, I have interested in MRI assessments of brain development in children. Currently, I am equipped with a series of methods of Voxel-Based Morphometry (VBM) and Surface-based Morphometry (SBM): I am able to perform images post-processing and statistical tests with structural MRI data using SPM12, CAT12, FSL, FreeSurfer, and MATLAB. And research indicators include, but are not limited to, grey matter volume, white matter volume, cortical thickness, and complexity (including Fractal dimension, Local Gyrification index, and Sulcus depth).
 
 ![figure 4](/images/figure_4.png)<center><font size=3>Cortical thickness, Fractal dimension, Local Gyrification index, and Sulcus depth</font></center>
 
@@ -52,7 +52,7 @@ My work:
 
 There were 390 cases in the retrospective case-control study, including 260 cases of normal controls fetuses and 130 complete vascular ring (CVR) fetuses. The diameters of the aortic arch isthmus (AoI) and ductus arteriosus (DA) were measured. The mean, standard deviation (SD), minimum, maximum, median, and 25th and 75th percentile for AoI and DA diameter were calculated. And the differences of AoI and DA diameter were compared between the normal controls and various subtypes of CVR fetuses. Congenital heart defect (CHD) and extracardiac malformation and tracheoesophageal compression symptom were recorded.
 
-This study reached the following conclusions: There were varying degrees of alterations in the diameter of AoI and DA in CVR fetuses which can be detected and measured by MRI in the transverse view of AA. CVR can occur in isolation or association with intracardiac and extracardiac malformation, especially VSD rather than complex heart disease. And it is very likely that a CVR fetus experience airway compression before delivery.
+This study reached the following conclusions: There were varying degrees of alterations in the diameter of AoI and DA in CVR fetuses which can be detected and measured by MRI in the transverse view of aortic arch. CVR can occur in isolation or association with intracardiac and extracardiac malformation, especially VSD rather than complex heart disease. And it is very likely that a CVR fetus experience airway compression before delivery.
 
 Besides, I wrote an article that reviewed the relationship between fetal congenital heart disease and its brain development, the progress of prenatal MRI quantitative evaluation of the cardiovascular and brain structures, blood flow, oxygen saturation, brain maturity, and metabolism in the fetuses with congenital heart disease.
 
@@ -61,12 +61,12 @@ Calculation of fetal brain structure and function network using multimodal quant
 
 My work:
 
-A total of 30 fetuses of tetralogy of Fallot and 60 normal fetuses were studied retrospectively. I measured the diameter of the fetal brain biparietal diameter (BBD), brain frontal-occipital length (BFOL), skull biparietal diameter (SBD), skull fronto-occipital diameter (SOD), head circumference (HC), aortic arch isthmus (AoI), the main pulmonary artery (MPA) and the ratio was calculated (MPA/AoI). The size of ventricular septal defect (VSD) was measured in TOF group. 
+A total of 30 fetuses of tetralogy of Fallot and 60 normal fetuses were studied retrospectively. I measured the diameter of the fetal brain biparietal diameter (BBD), brain frontal-occipital length (BFOL), skull biparietal diameter (SBD), skull fronto-occipital diameter (SOD), head circumference (HC), aortic arch isthmus (AoI), the main pulmonary artery (MPA) and the ratio was calculated (MPA/AoI). The size of ventricular septal defect (VSD) was measured in TOF group. The independent sample *t * test was used to compare the differences in various indicators between TOF and control groups.   
 
 This case-control study reached the following conclusions: MRI is feasible to measure the cardiovascular structure and the brain development of fetuses with TOF. Fetuses with TOF have varying degrees of VSD, MPA stenosis and AoI dilation. An altered brain growth of fetuses with TOF appears in the second trimester of pregnancy.
 
 
-Publication
+Publications
 ======
  - **Xia Zhang**, Su-Zhen Dong$^*$. Quantitative MRI evaluation of cardiovascular abnormalities and brain in fetuses with congenital heart disease. International Journal of Medical Radiology, 2022, 45(1):71-71. 
  - **Xia Zhang**, Ming Zhu, Su-Zhen Dong$^*$. Prenatal assessment of the cardiovascular structure and brain development of fetuses with Tetralogy of Fallot on fetal MRI. Chinese Journal of Radiology, 2022, 56(5): 488-493.
