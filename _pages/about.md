@@ -61,7 +61,7 @@ Calculation of fetal brain structure and function network using multimodal quant
 
 My work:
 
-A total of 30 fetuses of tetralogy of Fallot and 60 normal fetuses were studied retrospectively. I measured the diameter of the fetal brain biparietal diameter (BBD), brain frontal-occipital length (BFOL), skull biparietal diameter (SBD), skull fronto-occipital diameter (SOD), head circumference (HC), aortic arch isthmus (AoI), the main pulmonary artery (MPA) and the ratio was calculated (MPA/AoI). The size of ventricular septal defect (VSD) was measured in TOF group. The independent sample *t*\  test was used to compare the differences in various indicators between TOF and control groups.   
+A total of 30 fetuses of tetralogy of Fallot and 60 normal fetuses were studied retrospectively. I measured the diameter of the fetal brain biparietal diameter (BBD), brain frontal-occipital length (BFOL), skull biparietal diameter (SBD), skull fronto-occipital diameter (SOD), head circumference (HC), aortic arch isthmus (AoI), the main pulmonary artery (MPA) and the ratio was calculated (MPA/AoI). The size of ventricular septal defect (VSD) was measured in TOF group. The independent sample *t* test was used to compare the differences in various indicators between TOF and control groups.   
 
 This case-control study reached the following conclusions: MRI is feasible to measure the cardiovascular structure and the brain development of fetuses with TOF. Fetuses with TOF have varying degrees of VSD, MPA stenosis and AoI dilation. An altered brain growth of fetuses with TOF appears in the second trimester of pregnancy.
 
